@@ -1,0 +1,9 @@
+{
+    "threads": 10,
+    "sleep": 5,
+    "webserver": true,
+
+    "banner": "https://discord.com/api/webhooks/973057314628182056/aJu7cO8M8w_S2FCd9kGPJkA0TUpzmuKUb18UcwyBYvq5YOScTqNBT309uf1A0z7D6N7V",
+    "skyscraper": "https://discord.com/api/webhooks/973057314628182056/aJu7cO8M8w_S2FCd9kGPJkA0TUpzmuKUb18UcwyBYvq5YOScTqNBT309uf1A0z7D6N7V",
+    "square": "https://discord.com/api/webhooks/973057314628182056/aJu7cO8M8w_S2FCd9kGPJkA0TUpzmuKUb18UcwyBYvq5YOScTqNBT309uf1A0z7D6N7V"
+}
